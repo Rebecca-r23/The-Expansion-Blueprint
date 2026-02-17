@@ -39,7 +39,7 @@ India's premium running market is growing at **23% YoY**, yet Nike's market shar
 ![Roadmap](NikE'S-EXPANSION-BLUPRINT/8_Operational-Roadmap-12-Month-Launch-Timeline.png)
 
 ### Risk Mitigation Matrix
-![Risk Management](C:\Users\rodri\Downloads\7_Risk-De-Risking-Impact-vs-Uncertainty-Matrix.png)
+![Risk Management](NikE'S-EXPANSION-BLUPRINT/7_Risk-De-Risking-Impact-vs-Uncertainty-Matrix.png)
 
 ---
 
