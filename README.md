@@ -36,7 +36,7 @@ India's premium running market is growing at **23% YoY**, yet Nike's market shar
 ![Market Trends](NikE'S-EXPANSION-BLUPRINT/11_Market-Intelligence-2026-Consumer-Behavior-Trends.png)
 
 ### Operational Roadmap
-![Roadmap](C:\Users\rodri\Downloads\8_Operational-Roadmap-12-Month-Launch-Timeline.png)
+![Roadmap](NikE'S-EXPANSION-BLUPRINT/8_Operational-Roadmap-12-Month-Launch-Timeline.png)
 
 ### Risk Mitigation Matrix
 ![Risk Management](C:\Users\rodri\Downloads\7_Risk-De-Risking-Impact-vs-Uncertainty-Matrix.png)
